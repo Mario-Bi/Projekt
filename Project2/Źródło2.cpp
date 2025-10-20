@@ -2,5 +2,7 @@
 using namespace std;
 
 int main() {
-	cout<<"Hello"
+	cin >> tekst;
+	cout << tekst;
+
 }
